@@ -1,0 +1,5 @@
+[13-Oct-2022 14:02:47 America/New_York] PHP Warning:  require(/home/refutpzd/public_html/public/../vendor/autoload.php): Failed to open stream: No such file or directory in /home/refutpzd/public_html/public/index.php on line 34
+[13-Oct-2022 14:02:47 America/New_York] PHP Fatal error:  Uncaught Error: Failed opening required '/home/refutpzd/public_html/public/../vendor/autoload.php' (include_path='.:/opt/alt/php81/usr/share/pear:/opt/alt/php81/usr/share/php:/usr/share/pear:/usr/share/php') in /home/refutpzd/public_html/public/index.php:34
+Stack trace:
+#0 {main}
+  thrown in /home/refutpzd/public_html/public/index.php on line 34
